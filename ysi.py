@@ -52,7 +52,7 @@ st.markdown(
     - Pastikan URL Yang Anda Masukkan Mengikuti Format Berikut sesuai Kode Saham
       `https://finance.yahoo.com/quote/TSLA/history/`
     - Hindari Melakukan Scraping Data Terlalu Sering Dalam Waktu Singkat Untuk Menghindari Limit 
-    - Jika Terjadi Error/Limit Silahkan Kunjungi Repository Dibawah Untuk Guide Setup di LocalHost https://github.com/aldevvv/yahoofinance 
+    - Jika Terjadi Error/Limit Silahkan Kunjungi Repository Dibawah Untuk Guide Setup di LocalHost https://github.com/Alam-A99/yfinance.git 
     """
 )
 
