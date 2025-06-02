@@ -120,7 +120,7 @@ Proyek ini 100% gratis untuk digunakan siapapun.
 
 ## 👨‍💻 Developer
 
-Dikembangkan dengan ❤️ oleh [AlDev - Muhammad Alif]
+Dikembangkan dengan ❤️ oleh Ai, [Alif - Alam]
 
 Silakan follow & hubungi saya jika ada saran, feedback, atau ingin kerja sama.
 
