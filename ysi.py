@@ -49,7 +49,7 @@ st.title("📈 Yahoo Finance Historical Data Downloader - Version 1.0")
 st.markdown(
     """
     ### ⚠️ Catatan Penting
-    - Pastikan URL Yang Anda Masukkan Mengikuti Format Yang Benar
+    - Pastikan URL Yang Anda Masukkan Mengikuti Format Berikut sesuai Kode Saham
       `https://finance.yahoo.com/quote/TSLA/history/`
     - Hindari Melakukan Scraping Data Terlalu Sering Dalam Waktu Singkat Untuk Menghindari Limit 
     - Jika Terjadi Error/Limit Silahkan Kunjungi Repository Dibawah Untuk Guide Setup di LocalHost https://github.com/aldevvv/yahoofinance 
@@ -101,9 +101,9 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; font-size: 14px;'>
-        © 2025 | Developed with ❤️ by AlDev - Muhammad Alif<br>
+        © 2025 | Developed with ❤️ by Alif & Alam<br>
         Found a bug to report or a suggestion for improvement? Please share your feedback using the link below.<br>
-        <a href='https://www.instagram.com/mhdalif.id/' target='_blank'>https://instagram.com/mhdalif.id</a>
+        <a href='https://dataaksi.id/' target='_blank'>www.dataaksi.id</a>
     </div>
     """,
     unsafe_allow_html=True
